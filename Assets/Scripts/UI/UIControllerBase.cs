@@ -9,7 +9,7 @@ public class UIControllerBase {
     }
 
 
-    public void UIUpdate()
+    public void GPUpdate()
     {
 
     }
